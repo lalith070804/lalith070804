@@ -4,9 +4,9 @@
 Welcome to my command center. I build autonomous, multi-agent AI systems, cross-platform mobile experiences, and the infrastructure that bridges them together.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/lalithbuilds/lalithbuilds/blob/output/github-contribution-grid-snake-dark.svg?raw=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/lalithbuilds/lalithbuilds/blob/output/github-contribution-grid-snake.svg?raw=true" />
-  <img alt="GitHub Contribution Snake" src="https://github.com/lalithbuilds/lalithbuilds/blob/output/github-contribution-grid-snake.svg?raw=true" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lalithbuilds/lalithbuilds/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lalithbuilds/lalithbuilds/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/lalithbuilds/lalithbuilds/output/github-contribution-grid-snake.svg" />
 </picture>
 
 ---
